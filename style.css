@@ -1,5 +1,5 @@
 body {
-    background-color: #EEE
+    background-color: #EEE;
     font-family: Helvetica, Arial, sans serrif;
 }
 
@@ -51,7 +51,7 @@ nav ul {
 #footer {
     clear: both;
     padding: 10px;
-    background-color: #999999 
+    background-color: #999999; 
     color: white;
     text-align: right;
 }

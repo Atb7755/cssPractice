@@ -46,7 +46,7 @@ font-weight: bold;
 
 #main {
     width: 600px;
-    float: right;
+    float: auto;
 }
 
 #footer {

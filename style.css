@@ -5,7 +5,7 @@ body {
 
 a {
     text-decoration: none;
-    color: red;
+    color: rgba(72, 40, 110, 0.873);
 }
 
 h1, h2, h3 {
@@ -20,7 +20,7 @@ h1, h2, h3 {
 }
 
 #header {
-    background-color: #66CCFF;
+    background-color: #591556;
     color: white;
     text-align: center;
     padding: 10px;

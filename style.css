@@ -32,15 +32,16 @@ h1, h2, h3 {
 
 #nav {
     width: 180px;
-}
-
-#nav.selected {
-font-weight: bold;
+    float: left;
 }
 
 nav ul {
     list-style-type: none;
     padding: 0;
+}
+
+#nav.selected {
+font-weight: bold;
 }
 
 #main {

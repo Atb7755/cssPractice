@@ -40,13 +40,13 @@ nav ul {
     padding: 0;
 }
 
-#nav.selected {
+#nav .selected {
 font-weight: bold;
 }
 
 #main {
     width: 600px;
-    float: auto;
+    float: right;
 }
 
 #footer {
